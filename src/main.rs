@@ -110,9 +110,9 @@ fn update(auth_token: Option<&str>) -> Result<(), Box<dyn std::error::Error>> {
     let mut update_builder = self_update::backends::github::Update::configure();
 
     update_builder
-        .repo_owner("IceDynamix")
-        .repo_name("reliquary-archiver")
-        .bin_name("reliquary-archiver")
+        .repo_owner("bingsoojin")
+        .repo_name("reliquary-archiver-copy")
+        .bin_name("reliquary-archiver-copy")
         .target("x64")
         .show_download_progress(true)
         .show_output(false)
