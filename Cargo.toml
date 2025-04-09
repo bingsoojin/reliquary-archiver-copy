@@ -3,10 +3,10 @@ name = "reliquary-archiver"
 version = "0.3.0"
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/IceDynamix/reliquary-archiver"
+repository = "https://github.com/bingsoojin/reliquary-archiver-copy"
 publish = false
 readme = "README.md"
-homepage = "https://github.com/IceDynamix/reliquary-archiver"
+homepage = "https://github.com/bingsoojin/reliquary-archiver-copy"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
